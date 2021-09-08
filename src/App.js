@@ -34,7 +34,7 @@ function App() {
           desc='$69, 420'
           descLink=''
           backgroundImg={ModelS}
-          leftBtnTxt='CUSTOM OREDER'
+          leftBtnTxt='CUSTOM ORDER'
           leftBtnLink=''
           rightBtnTxt='LEARN MORE'
           rightBtnLink=''
@@ -45,7 +45,7 @@ function App() {
           desc='Money-back guarantee'
           descLink=''
           backgroundImg={Model3}
-          leftBtnTxt='CUSTOM OREDER'
+          leftBtnTxt='CUSTOM ORDER'
           leftBtnLink=''
           rightBtnTxt='LEARN MORE'
           rightBtnLink=''
@@ -56,7 +56,7 @@ function App() {
           desc='Money-back guarantee'
           descLink=''
           backgroundImg={ModelX}
-          leftBtnTxt='CUSTOM OREDER'
+          leftBtnTxt='CUSTOM ORDER'
           leftBtnLink=''
           rightBtnTxt='LEARN MORE'
           rightBtnLink=''
@@ -67,7 +67,7 @@ function App() {
           desc='Money-back guarantee'
           descLink=''
           backgroundImg={ModelY}
-          leftBtnTxt='CUSTOM OREDER'
+          leftBtnTxt='CUSTOM ORDER'
           leftBtnLink=''
           rightBtnTxt='LEARN MORE'
           rightBtnLink=''

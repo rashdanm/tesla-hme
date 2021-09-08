@@ -19,7 +19,7 @@ const Header = () => {
 
             <div className='header__right'>
                 <p>Home</p>
-                <p>Account</p>
+                <p>Tesla Account</p>
             </div>
         </div>
     )
